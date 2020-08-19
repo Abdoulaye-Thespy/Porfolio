@@ -5,3 +5,36 @@
 .middle {
   text-align: center;
 }
+
+.section1 {
+  margin: 6rem 0 6rem 0;
+}
+
+.red {
+  width: 85%;
+  margin: auto;
+}
+
+.name {
+   color:  #003566;
+}
+
+.work { 
+  color: #ff3300; 
+}
+
+.devide {
+  margin: 6rem 0 6rem 0;
+}
+
+.angle {
+  float: right;
+}
+
+.name1 {
+  color: #662200;
+}
+
+.langskills p {
+   font-size: 20px; 
+}
