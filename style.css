@@ -38,3 +38,32 @@
 .langskills p {
    font-size: 20px; 
 }
+
+.tech {
+  display: flex;
+  text-decoration: none;
+  list-style: none;
+  margin-top: 4rem;
+  margin-left: -4.5rem;
+}
+
+.tech li {
+  margin: .5rem;
+  font-size: 15px;
+  color:  #003566;
+}
+
+.bmodal {
+  margin-left: -2rem; 
+  margin-bottom: 5rem;
+}
+
+.cadre {
+  margin: 4rem 0 4rem 0; 
+}
+
+.cadre:hover {
+  cursor: pointer;
+  border-radius: 1rem;
+  border: 1px solid #d590b5;
+}
