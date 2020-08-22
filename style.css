@@ -127,7 +127,8 @@
   margin-top: 3rem;
 }
 
-.middle i {
+.middle i,
+.scroll {
   font-size: 40px;
   margin: 2rem;
 }
