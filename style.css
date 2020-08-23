@@ -47,7 +47,8 @@
   margin-left: -4.5rem;
 }
 
-.tech li {
+.tech li,
+.modal_cont {
   margin: .5rem;
   font-size: 20px;
   color:  #003566;
@@ -130,5 +131,10 @@
 .middle i,
 .scroll {
   font-size: 40px;
-  margin: 2rem;
+  margin: .6rem;
+}
+
+.modal_btn {
+  margin-top: 0.5rem;
+  padding: 1rem;
 }
